@@ -114,6 +114,9 @@ h1,h2,h3{
     position: relative;
 }
 
+.logo{
+    border-radius:80px;
+}
 
 .nav-bar{
     padding: 1rem;
